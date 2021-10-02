@@ -1,4 +1,4 @@
-### Ola comece uma jonada conos  👋
+### Olá comece uma jonada conosco  👋
 
 <!--
 **Guilherme-technology/Guilherme-Technology** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
